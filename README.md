@@ -1,7 +1,7 @@
 # GAN-pytorch
-![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/innnk/4y2333/blob/master/LICENSE)
+![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg) [![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/innnk/pytorch_generative_adversarial_networks/blob/master/LICENSE)
 
-![what's GAN](https://blog-img-1257227635.cos.ap-beijing.myqcloud.com/4y2.jpg)
+![what's GAN](https://blog-img-1257227635.cos.ap-beijing.myqcloud.com/gan_avatar.jpg)
 
 ## About
 This repo will store some GAN experiments with pytorch.
@@ -13,4 +13,4 @@ This repo will store some GAN experiments with pytorch.
 
 ## License
 
-Licensed under theMIT License](https://github.com/innnk/4y2333/blob/master/LICENSE) .
+[Licensed under theMIT License](https://github.com/innnk/pytorch_generative_adversarial_networks/blob/master/LICENSE) .
