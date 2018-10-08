@@ -8,7 +8,7 @@ This repo will store some GAN experiments with pytorch.
 
 ## Todo list:
 
-- [ ]
+- [ ] 
 - [ ] WGAN
 - [ ] visualization the process of training GAN
 - [x] build a repo
