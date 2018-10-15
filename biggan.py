@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Big Generative Adversarial Networks (bigGAN) example in PyTorch
+# Big Generative Adversarial Networks (bigGAN) in PyTorch
 
 import numpy as np
 import torch
