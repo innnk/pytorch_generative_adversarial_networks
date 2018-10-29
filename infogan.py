@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Wasserstein Generative Adversarial Networks (GAN) example in PyTorch.
+# info Generative Adversarial Networks (infoGAN) example in PyTorch.
 
 import numpy as np
 import torch
