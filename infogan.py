@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# info Generative Adversarial Networks (infoGAN) example in PyTorch.
+# information Generative Adversarial Networks (infoGAN) example in PyTorch.
 
 import numpy as np
 import torch
