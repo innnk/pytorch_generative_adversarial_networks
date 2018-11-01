@@ -15,6 +15,8 @@ This repo will store some GAN experiments with pytorch.
 - [ ] visualization the process of training GAN
 - [x] build a repo
 
+## Thanksto
+
 ## License
 
 Licensed under the [MIT License](https://github.com/innnk/pytorch_generative_adversarial_networks/blob/master/LICENSE) .
