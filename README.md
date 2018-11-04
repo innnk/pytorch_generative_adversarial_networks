@@ -13,7 +13,7 @@ This repo will store some GAN experiments with pytorch.
 - [ ] WGAN
 - [ ] infoGAN
 - [ ] visualization the process of training GAN
-- [ ] add Thanksto
+- [x] add Thanksto
 - [x] build a repo
 
 ## Thanksto
