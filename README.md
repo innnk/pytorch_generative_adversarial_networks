@@ -9,6 +9,7 @@ This repo will store some GAN experiments with pytorch.
 
 ## Todo list:
 
+- [ ] tGAN
 - [ ] bigGAN example
 - [ ] WGAN
 - [ ] infoGAN
